@@ -1,0 +1,33 @@
+User Data Deletion Guide
+We take your privacy seriously and offer multiple ways to delete your data from our application. Choose one of the following options to proceed:
+
+Option 1: Delete Data via In-App Settings
+1 Open the application on your device.
+2 Navigate to the Settings menu.
+3 Select Account.
+4 Tap on Delete My Data.
+5 Confirm your decision when prompted.
+Your data will be permanently deleted from our servers, and you will receive a confirmation message.
+
+Option 2: Delete Data via Application Options
+If you have the application installed on your device and want to remove cached data, follow these steps:
+
+1 Locate the application icon on your device.
+2 Right-click on the application icon.
+3 Select Info or App Info.
+4 Click on Delete Cache.
+5 This will remove locally stored data, but keep in mind that it will not delete server-stored information. For complete data removal, please use Option 1 or Option 3.
+
+Option 3: Request Data Deletion via Email
+If you prefer to request data deletion via email, please follow these steps:
+
+1 Send an email to jaysonsenatin@gmail.com with the subject line: "Delete My Data".
+
+2 Include the following information in the email:
+
+  * Your full name.
+  * The email address associated with your account.
+  * Your user ID (if applicable).
+3 Once we receive your request, we will process the deletion within 7 business days and confirm the deletion via email.
+
+For any questions or concerns, feel free to reach out to our support team at jaysonsenatin@gmail.com.
